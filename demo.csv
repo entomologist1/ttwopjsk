@@ -1,8 +1,8 @@
 areaConvoID,talkspriteID,speaker,dialogue
-1,,DEMO,Hello!
-1,,TEST,Hello...
-1,,DEMO,This is a test!
-1,,DEMO,It is now over!
-2,,TEST,Hi again.
-2,,TEST,This is another test
-2,,TEST,For loading another area convo
+1,DEMO-1.png,DEMO,Hello!
+1,TEST-1.png,TEST,Hello...
+1,DEMO-1.png,DEMO,This is a test!
+1,DEMO-1.png,DEMO,It is now over!
+2,TEST-2.png,TEST,Hi again.
+2,TEST-2.png,TEST,This is another test
+2,TEST-2.png,TEST,For loading another area convo
