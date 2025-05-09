@@ -1,0 +1,8 @@
+areaConvoID,talkspriteID,speaker,dialogue, x_position, y_position
+1,https://pe-images.s3.amazonaws.com/basics/cc/image-size-resolution/resize-images-for-print/image-cropped-8x10.jpg,DEMO,Hello!, 300, 400
+1,TEST-1.png,TEST,Hello..., 600, 400
+1,https://pe-images.s3.amazonaws.com/basics/cc/image-size-resolution/resize-images-for-print/image-cropped-8x10.jpg,DEMO,This is a test!, 300, 400
+1,https://pe-images.s3.amazonaws.com/basics/cc/image-size-resolution/resize-images-for-print/image-cropped-8x10.jpg,DEMO,It is now over!, 300, 400
+2,TEST-2.png,TEST,Hi again., 450, 400
+2,TEST-2.png,TEST,This is another test, 450, 400
+2,TEST-2.png,TEST,For loading another area convo, 450, 400
