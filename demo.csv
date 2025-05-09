@@ -1,8 +1,8 @@
-areaConvoID,talkspriteID,speaker,dialogue
-1,DEMO-1.png,DEMO,Hello!
-1,TEST-1.png,TEST,Hello...
-1,DEMO-1.png,DEMO,This is a test!
-1,DEMO-1.png,DEMO,It is now over!
-2,TEST-2.png,TEST,Hi again.
-2,TEST-2.png,TEST,This is another test
-2,TEST-2.png,TEST,For loading another area convo
+areaConvoID,talkspriteID,speaker,dialogue, x_position, y_position
+1,DEMO-1.png,DEMO,Hello!, 300, 400
+1,TEST-1.png,TEST,Hello..., 600, 400
+1,DEMO-1.png,DEMO,This is a test!, 300, 400
+1,DEMO-1.png,DEMO,It is now over!, 300, 400
+2,TEST-2.png,TEST,Hi again., 450, 400
+2,TEST-2.png,TEST,This is another test, 450, 400
+2,TEST-2.png,TEST,For loading another area convo, 450, 400
