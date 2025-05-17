@@ -1,6 +1,6 @@
 areaConvoID,talkspriteID,speaker,dialogue, x_position, y_position
-1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,, 300, 400
-1,TEST-1.png,TEST,, 600, 400
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO, , 300, 400
+1,TEST-1.png,TEST, , 600, 400
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,Hello!, 300, 400
 1,TEST-1.png,TEST,Hello..., 600, 400
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,This is a test!, 300, 400
