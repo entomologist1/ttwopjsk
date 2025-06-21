@@ -1,5 +1,5 @@
-areaConvoID,location,speakerList,totalNumber,x,y
-0,0,0,0,0,0
+areaConvoID,location,speakerList,totalNumber,x,y,notes
+0,0,0,0,0,0, this is just a test lol
 1,1,1,1,0,0
 2,1,"1, 2",2,0,0
 3,2,"1, 2, 3",3,0,0
