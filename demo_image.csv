@@ -8,5 +8,5 @@ areaConvoID,talkspriteID,speaker,dialogue,x_position,y_position
 2,TEST-2.png,TEST,Hi again., 450, 400
 2,TEST-2.png,TEST,This is another test, 450, 400
 2,TEST-2.png,TEST,For loading another area convo, 450, 400
-2,,,..., 450, 400
+2,TEST-2.png,,..., 450, 400
 2,TEST-2.png,TEST,ok bye, 450, 400
