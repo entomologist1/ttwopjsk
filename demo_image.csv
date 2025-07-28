@@ -1,12 +1,12 @@
-areaConvoID,talkspriteID,speaker,dialogue,x_position,y_position
-1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,  , 300, 400
-1,TEST-1.png,TEST,  , 600, 400
-1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,Hello!, 300, 400
-1,TEST-1.png,TEST,Hello..., 600, 400
-1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,This is a test!, 300, 400
-1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,It is now over!, 300, 400
-2,TEST-2.png,TEST,Hi again., 450, 400
-2,TEST-2.png,TEST,This is another test, 450, 400
-2,TEST-2.png,TEST,For loading another area convo, 450, 400
-2,TEST-2.png,,..., 450, 400
-2,TEST-2.png,TEST,ok bye, 450, 400
+areaConvoID,talkspriteID,speaker,dialogue,default_position,x_position,y_position
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,  ,RIGHT,333,400
+1,TEST-1.png,TEST,  ,LEFT,666,400
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,Hello!,,333,400
+1,TEST-1.png,TEST,Hello...,,666,400
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,This is a test!,,333,400
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,It is now over!,,333,400
+2,TEST-2.png,TEST,Hi again.,MIDDLE,500,400
+2,TEST-2.png,TEST,This is another test,,500,400
+2,TEST-2.png,TEST,For loading another area convo,,500,400
+2,TEST-2.png,,...,,500,400
+2,TEST-2.png,TEST,ok bye,,500,400
