@@ -7,6 +7,6 @@ areaConvoID,talkspriteID,speaker,dialogue,default_position,x_position,y_position
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,It is now over!,,333,400
 2,TEST-2.png,TEST,Hi again.,MIDDLE, , 
 2,TEST-2.png,TEST,This is another test,,500,400
-2,TEST-2.png,TEST,For loading another area convo,,300,200
+2,TEST-2.png,TEST,For loading another area convo,,500,400
 2,TEST-2.png,,...,,500,400
 2,TEST-2.png,TEST,ok bye,,500,400
