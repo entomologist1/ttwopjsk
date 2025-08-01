@@ -19,4 +19,4 @@ areaConvoID,talkspriteID,speaker,dialogue,default_position,x_position,y_position
 3,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green_icon_-_Height_%E2%86%91.ZGH.png/640px-Green_icon_-_Height_%E2%86%91.ZGH.png,example3,And there is talking,LEFT,,,,,
 3,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Green_icon_-_Setting.ZGH.png/640px-Green_icon_-_Setting.ZGH.png,example2,we talk,RIGHT,,,,,
 3,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green_icon_-_Height_%E2%86%91.ZGH.png/640px-Green_icon_-_Height_%E2%86%91.ZGH.png,example3,,LEFT,,,RIGHT,,
-3,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Green_icon_-_Edea_%E2%B5%A3.ZGH.png/640px-Green_icon_-_Edea_%E2%B5%A3.ZGH.png,example1,highkey this is confusing,LEFT,,,,RIGHT,
+3,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Green_icon_-_Edea_%E2%B5%A3.ZGH.png/640px-Green_icon_-_Edea_%E2%B5%A3.ZGH.png,example1,highkey this is confusing,LEFT,333,400,,RIGHT,
