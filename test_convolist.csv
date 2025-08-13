@@ -1,14 +1,15 @@
 ﻿areaConvoID,speakerList,location,locationname,notes
 0,0,0,, this is just a test lol
-1,"9,11,12",4,mainst,
-2,"9,11,12",8,nanairo,
-3,"9,11,12",8,nanairo,
+10,"9,11,12",4,mainst,
+11,"9,11,12",8,nanairo,
+12,"9,11,12",8,nanairo,
 4,"10,11,12",2,kschool,
 5,"10,11,12",3,scramble,
 6,"10,11,12",8,nanairo,
 7,"1,2,3,4",3,scramble,
 8,"5,6,7,8",5,park,
 9,"5,6,7,8",7,shs,
-10,"5,6,7,8",7,shs,
-11,"9,10,11,12",2,kschool,
-12,"9,10,11,12",3,scramble,
+3,"5,6,7,8",7,shs,
+1,"9,10,11,12",2,kschool,
+2,"9,10,11,12",3,scramble,
+
