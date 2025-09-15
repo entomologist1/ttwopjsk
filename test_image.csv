@@ -1,5 +1,5 @@
 areaConvoID,talkspriteID,speaker,dialogue,default_position,x_position,y_position,quick_escape,quick_enter,animation
-0,.,…,this is so messy. Sorry I love spaghetti. Anyway quickenter/escape > moving to new x/y position > default position > animation+bounce > plain spawning. Keep track of those somehow. Ok thx future me byeeeeeee,RIGHT,,,,,
+0,.,…,this is so messy. Sorry I love spaghetti. Anyway quickenter/escape > moving to new x/y position > default position > animation+bounce > plain spawning. quickenter/escape will skip animation but apply endresult. Keep track of those somehow. Ok thx future me byeeeeeee,RIGHT,,,,,
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,  ,RIGHT,333,400,,,SHAKE
 1,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,TEST,  ,LEFT,666,400,,,SCALE
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,Hello!,,333,400,,,FADE
@@ -67,6 +67,7 @@ areaConvoID,talkspriteID,speaker,dialogue,default_position,x_position,y_position
 12,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,TEST,For loading another area convo,,300,200,,,
 12,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,,...,,500,400,,,
 12,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,TEST,ok bye,,500,400,RIGHT,,
+
 
 
 
