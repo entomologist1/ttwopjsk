@@ -1,9 +1,9 @@
 ﻿areaConvoID,talkspriteID,speaker,dialogue,default_position,x_position,y_position,quick_escape,quick_enter,animation
 0,.,â€¦,this is so messy. Sorry I love spaghetti. Anyway quickenter/escape > moving to new x/y position > default position > animation+bounce > plain spawning. quickenter/escape will skip animation but apply endresult. Keep track of those somehow. Ok thx future me byeeeeeee,RIGHT,,,,,
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,test again,this is a test again,RIGHT,,,,,
-1,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,test again,despite having poured literal months into this,RIGHT,,,,,
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,test again,despite having poured literal months into this,RIGHT,,,,,
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,test again,I keep getting embarrassed to actually write the damn things,RIGHT,,,,,
-1,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,test again,which is like ,MIDDLE,,,,,
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,test again,which is like ,MIDDLE,,,,,
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,test again,whateverrrrrrrrrrrrrrrrrrrrrrrrr -_____-,MIDDLE,,,,,
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,test again,I need to get over it (saki reference),MIDDLE,,,LEFT,,
 2,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,,,,,,,,
