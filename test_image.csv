@@ -6,12 +6,12 @@ areaConvoID,talkspriteID,speaker,display,dialogue,default_position,x_position,y_
 1,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,TEST,,Hello...,,666,400,LEFT,,SHAKE,
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,,This is a test!,,333,400,,,NUDGE_RIGHT,TRUE
 1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,DEMO,,It is now over!,,333,400,,,NUDGE_LEFT,FALSE
-2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170730.png,TEST,,Hi ......,MIDDLE,500,0,,LEFT,,
-2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170730.png,TEST,,......... again.,MIDDLE,500,0,,,NUDGE_RIGHT,
-2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170329.png,TEST,,This is another test,,500,0,,,RESET_NOW,
-2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170329.png,TEST,,For loading another area convo,,300,200,,,,
-2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170532.png,TEST,\,...,,500,0,,,,
-2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170210.png,TEST,,ok bye,,500,0,RIGHT,,,
+2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170730.png,TEST,,Hi ......,MIDDLE,500,600,,LEFT,,
+2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170730.png,TEST,,......... again.,MIDDLE,500,600,,,NUDGE_RIGHT,
+2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170329.png,TEST,,This is another test,,500,600,,,RESET_NOW,
+2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170329.png,TEST,,For loading another area convo,,200,600,,,,
+2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170532.png,TEST,\,...,,500,600,,,,
+2,https://file.garden/aPwwoU9PkXWKuOIa/sprites%20ttwopjsk/mayuko/mayuko%20moment2_20251029170210.png,TEST,,ok bye,,500,600,RIGHT,,,
 3,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Green_icon_-_Edea_%E2%B5%A3.ZGH.png/640px-Green_icon_-_Edea_%E2%B5%A3.ZGH.png,example1,,,LEFT,,,,,,
 3,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Green_icon_-_Setting.ZGH.png/640px-Green_icon_-_Setting.ZGH.png,example2,,,RIGHT,,,,,,
 3,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Green_icon_-_Edea_%E2%B5%A3.ZGH.png/640px-Green_icon_-_Edea_%E2%B5%A3.ZGH.png,example1,,ok so like here is a hypothetical convo,LEFT,,,,,,
@@ -67,4 +67,5 @@ areaConvoID,talkspriteID,speaker,display,dialogue,default_position,x_position,y_
 12,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,TEST,,For loading another area convo,,300,200,,,,
 12,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,TEST,\,...,,500,400,,,,
 12,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/640px-Green_icon_-_Key.ZGH.png,TEST,,ok bye,,500,400,RIGHT,,,
+
 
