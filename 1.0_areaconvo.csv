@@ -1,10 +1,10 @@
 ﻿areaConvoID,talkspriteID,speaker,display,dialogue,default_position,x_position,y_position,quick_escape,quick_enter,animation,flip
 0,.,â€¦,\ for blank,this is so messy. Sorry I love spaghetti. Anyway quickenter/escape > moving to new x/y position > default position > animation+bounce > plain spawning. quickenter/escape will skip animation but apply endresult. Keep track of those somehow. Ok thx future me byeeeeeee,RIGHT,,,,,,
-1,sdfg,,,I forgot about the math homework due today...,MIDDLE,,,,,,
-1,sdfg,,,I wonder if Koharu will let me copy hers?,MIDDLE,,,,,,
-1,sdfg,,,Hmm...,MIDDLE,,,,,,
-1,sdfg,,,"Actually, screw that. I'll just do it right now!",MIDDLE,,,,,,
-1,sdfg,,,"It was like, Hospital's rule or something? Can't be that hard.",MIDDLE,,,,,,
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,sdfg,,I forgot about the math homework due today...,MIDDLE,,,,,,
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,sdfg,,I wonder if Koharu will let me copy hers?,MIDDLE,,,,,,
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,sdfg,,Hmm...,MIDDLE,,,,,,
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,sdfg,,"Actually, screw that. I'll just do it right now!",MIDDLE,,,,,,
+1,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png,sdfg,,"It was like, Hospital's rule or something? Can't be that hard.",MIDDLE,,,,,,
 2,,,,Oh oh oh! That musician is back!,,,,,,,
 2,,,,"(I saw a bit of their performance the other day, but in the middle of the song, they grabbed their things and ran off!)",,,,,,,
 2,,,,Yay~★ I hope they play some more this time.,,,,,,,
@@ -601,5 +601,6 @@
 230,,,,"It has! I mean, even without the SEKAI…",,,,,,,
 230,,,,I'm happy we get to hang out like this.,,,,,,,
 230,,,,I guess I can't be mad about that. ,,,,,,,
+
 
 
